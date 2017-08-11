@@ -6,7 +6,7 @@ of the first project.
 ## Objective
 To create a Neural Network from the base applying gradient descent and backpropagation
 
-## Disclaimer
+### Disclaimer
 Aside from the basic Jupyter notebook template, that can be found at the [deep-learning Learning GitHub] repository,
 this is my personal work and should not be used for other purposes except the academic and reference.
 
